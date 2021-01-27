@@ -1,0 +1,13 @@
+{
+"companyName": "NWeber",
+"productName": "10N2_NO9_Revision",
+"dataUrl": "webglz.data.unityweb",
+"wasmCodeUrl": "webglz.wasm.code.unityweb",
+"wasmFrameworkUrl": "webglz.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
